@@ -12,14 +12,6 @@ def line(customer)
   end
 end 
 
-  counter = 0 
-  while counter < names.length
-  katz_deli = names[katz_deli]
-  puts "The line is currently:"
-  counter += 1
-end
-end 
-
 
 
  
