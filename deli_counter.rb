@@ -1,6 +1,7 @@
 # Write your code here.
 
 def line(customer)
+  array = []
   if customer == []
   puts "The line is currently empty."
   else 
