@@ -7,7 +7,7 @@ def line(customer)
   message = " #{index+1}. #{i}"
   array << message 
   end
-  puts "The line is currently:#{array.join("")}
+  puts "The line is currently:#{array.join("")}"
   end
 end 
 
