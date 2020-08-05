@@ -8,7 +8,7 @@ customer.each_with_index do |customer, index|
 message = " #{index+1}. #{customer}"
 array << message 
 end
-puts 
+puts "The line is currently:"
   
   counter = 0 
   while counter < names.length
