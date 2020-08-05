@@ -7,6 +7,7 @@ else
 customer.each_with_index do |customer, index|
 message = " #{index+1}. #{customer}"
 array << message 
+end 
   
   counter = 0 
   while counter < names.length
