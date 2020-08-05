@@ -13,6 +13,11 @@ def line(customer)
   end
 end 
 
+def take_A_number(line, customer)
+  line << customer 
+  puts "Welcome, #{customer}. You are number #{line.length} in line.
+end
+
 
 
  
