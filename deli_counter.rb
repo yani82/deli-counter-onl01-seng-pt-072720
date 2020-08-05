@@ -1,5 +1,3 @@
-# Write your code here.
-
 def line(customer)
   array = []
   if customer == []
